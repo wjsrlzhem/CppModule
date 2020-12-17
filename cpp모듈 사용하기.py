@@ -4,7 +4,7 @@
 #모듈 위치 설정
 '''
 import sys
-sys.path.append("C:\\Users\\arist\\Desktop\\")
+sys.path.append("C:\\Users\\OWNER\\Desktop\\")
 
 '''
 import CppModule as CM
